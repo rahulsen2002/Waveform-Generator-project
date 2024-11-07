@@ -47,14 +47,5 @@ Sample rate (samples per second): The rate at which the waveform is sampled.
 Step 5: View the Output
 Once the program completes, the waveform data is saved to a CSV file named waveform.csv in the same directory. This file contains two columns: Time and Value, representing the time and the corresponding waveform value.
 
-Example:
 
-python
-Copy code
-Time,Value
-0.0,0.0
-0.001,0.587785
-0.002,0.951057
-0.003,0.951057
-...
 End of README
